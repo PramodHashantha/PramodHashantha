@@ -1,3 +1,4 @@
+![Header](./header.png)
 # Hi there, I'm K.D.H.P. Kothalwala 👋
 
 Welcome to my GitHub profile! I'm a passionate **Software Engineering** student at the **Open University of Sri Lanka** 🏫, currently pursuing my **Bachelor of Software Engineering**.
