@@ -69,8 +69,13 @@ A MERN-based web application that allows users to calculate GPA by entering cour
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PramodHashantha&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PramodHashantha&layout=compact&theme=default)
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=PramodHashantha&theme=prussian&hide_border=true" alt="GitHub Streak" /></a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PramodHashantha&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+</p>
 
 ---
 
